@@ -8,7 +8,6 @@ yarn
 ```
 # usage
 ```
-cd sLiM-gifs
 yarn dev
 ```
 
