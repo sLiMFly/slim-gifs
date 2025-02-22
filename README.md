@@ -1,15 +1,17 @@
 # sLiM Gifs
 Search gifs on giphy.
 
-# install
-```
+
+## Clone and Install 
+```shell
 git clone https://github.com/sLiMFly/slim-gifs.git
 yarn
 ```
-# usage
-```
+
+## Run
+```js
 yarn dev
 ```
 
-# demo
+# Demo
 https://slimgifs.netlify.app
