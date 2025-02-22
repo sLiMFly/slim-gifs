@@ -1,5 +1,5 @@
 # sLiM Gifs
-This is a simple .
+Search gif on giphy.
 
 # install
 ```
