@@ -21,5 +21,5 @@ https://slimgifs.netlify.app
 ## Screenshots
 
 <p align="center">
-    <img src="./assets/images/screenshots/screen1.png" alt="Navigation App Screenshot" width="800"/>
+    <img src="./Doraemon.png" alt="Gif Screenshot" width="800"/>
 </p>
