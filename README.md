@@ -23,3 +23,6 @@ https://slimgifs.netlify.app
 <p align="center">
     <img src="./Doraemon.png" alt="Gif Screenshot" width="800"/>
 </p>
+
+
+Ejercicio del curso de [Fernando Herrera](https://fernando-herrera.com/)
